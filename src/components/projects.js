@@ -643,7 +643,7 @@ function Project(){
           </div>
           <div style={{display:"flex" , marginTop:'40px' , flexWrap:"wrap" }}>
             <a href="https://github.com/suraj860/Day-25-IFSC" target="blank" className="anchor">
-              <button className="codeBtn">Source Code <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
+              <button className="codeBtn">FrontEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
             </a>
             <a href = "https://get-bankdetails.netlify.app/" target="blank" className="anchor">
             <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
@@ -719,7 +719,7 @@ function Project(){
           </div> 
           <div style={{display:"flex" , marginTop:'40px' , flexWrap:"wrap"}}>
             <a href="https://github.com/suraj860/Day-25-covid19" target="blank" className="anchor">
-              <button className="codeBtn">Source Code <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
+              <button className="codeBtn">FrontEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
             </a>
             <a href = "https://covid-19-tracker-data.netlify.app/" target="blank" className="anchor">
             <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
