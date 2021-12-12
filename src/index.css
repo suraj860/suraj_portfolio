@@ -319,7 +319,11 @@ font-weight: bold;
   .stackIcons{
     padding: 10px;
   }
-
+  
+  .about{
+     padding-right: 0px;
+  }
+  
   .codeBtn{
     margin-bottom: 10px;
   }
@@ -335,7 +339,7 @@ font-weight: bold;
 @media(max-width:443px){
   .credentials{
     top:100px;
-    right:180px;
+    right:30px;
   }
 }
 
