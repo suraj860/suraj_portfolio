@@ -331,3 +331,19 @@ font-weight: bold;
     padding: 0px;
   }
 }
+
+@media(max-width:443px){
+  .credentials{
+    top:100px;
+    right:180px;
+  }
+}
+
+
+@media(max-width:318px){
+  .credentials{
+    top:150px;
+    right:0px;
+  }
+}
+
