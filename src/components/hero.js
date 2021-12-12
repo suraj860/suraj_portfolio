@@ -17,10 +17,10 @@ function Hero(){
               by providing sustainable and scalable solutions.</p>
             <div style={{marginTop:"30px" , display:"flex"}}>
             <a href="https://github.com/suraj860" target="blank" className="anchor" style={{color:"black" , marginRight:"25px"}}>
-            <i className="fab fa-github-square fa-2x socialIcons"></i></a>
+             <img src="./images/githubHomeIcon.png" className="heroIcons" alt="github"/></a>
 
             <a href="https://drive.google.com/file/d/18vP_L04IA7O6fLnuUwDe12Y60R7kCPUi/view?usp=sharing" target="blank" className="anchor" style={{color:"black"}}>
-            <i className="fas fa-file fa-2x socialIcons"></i></a>
+            <img src="./images/resume.png" className="heroIcons" alt="resume"/></a>
 
             </div>
           </div>
