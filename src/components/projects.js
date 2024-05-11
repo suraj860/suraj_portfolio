@@ -146,13 +146,13 @@ function Project(){
           <div className="ee">
         
           <div className="credentials">
-            <div>
-              <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
-              <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
-              <p  className="demoCred">surajpatils131297@gmail.com</p>
-              <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
-              <p  className="demoCred"> admin123</p>
-            </div>
+            // <div>
+            //   <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
+            //   <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
+            //   <p  className="demoCred">surajpatils131297@gmail.com</p>
+            //   <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
+            //   <p  className="demoCred"> admin123</p>
+            // </div>
           </div>
           </div>
           
@@ -290,13 +290,13 @@ function Project(){
             // <a href = "https://suraj-bikerental-portal.netlify.app/" target="blank" className="anchor">
             // <button className="codeBtn" >  Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button></a>
             <div className="credentials">
-            <div>
-              <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
-              <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
-              <p  className="demoCred">surajpatils131297@gmail.com</p>
-              <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
-              <p  className="demoCred"> admin123</p>
-            </div>
+            // <div>
+            //   <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
+            //   <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
+            //   <p  className="demoCred">surajpatils131297@gmail.com</p>
+            //   <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
+            //   <p  className="demoCred"> admin123</p>
+            // </div>
             </div>
             </div>
           </div>
@@ -420,13 +420,13 @@ function Project(){
             // <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
             </a>
             <div className="credentials">
-            <div>
-              <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
-              <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
-              <p  className="demoCred">surajpatils131297@gmail.com</p>
-              <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
-              <p  className="demoCred"> admin123</p>
-            </div>
+            // <div>
+            //   <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
+            //   <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
+            //   <p  className="demoCred">surajpatils131297@gmail.com</p>
+            //   <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
+            //   <p  className="demoCred"> admin123</p>
+            // </div>
             </div>
             </div>
           </div>
@@ -556,13 +556,13 @@ function Project(){
             // <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
             </a>
               <div className="credentials">
-              <div>
-                <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
-                <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
-                <p  className="demoCred">surajpatils131297@gmail.com</p>
-                <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
-                <p  className="demoCred"> admin123</p>
-              </div>
+              // <div>
+              //   <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
+              //   <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
+              //   <p  className="demoCred">surajpatils131297@gmail.com</p>
+              //   <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
+              //   <p  className="demoCred"> admin123</p>
+              // </div>
               </div>
             </div>
           </div>
