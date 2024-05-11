@@ -80,8 +80,6 @@ function Project2(){
             <button className="codeBtn">Backend Source Code</button>
             </a>
             
-            // <a href = "https://suraj-bikerental-portal.netlify.app/" target="blank" className="anchor">
-            // <button className="codeBtn" >  Live Demo</button></a>
           </div>
         </div>
         
