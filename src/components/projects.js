@@ -146,13 +146,13 @@ function Project(){
           <div className="ee">
         
           <div className="credentials">
-            // <div>
-            //   <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
-            //   <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
-            //   <p  className="demoCred">surajpatils131297@gmail.com</p>
-            //   <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
-            //   <p  className="demoCred"> admin123</p>
-            // </div>
+            <div>
+              <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
+              <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
+              <p  className="demoCred">surajpatils131297@gmail.com</p>
+              <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
+              <p  className="demoCred"> admin123</p>
+            </div>
           </div>
           </div>
           
@@ -287,16 +287,15 @@ function Project(){
             <button className="codeBtn">BackEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
             </a>
             <div className="ee">
-            // <a href = "https://suraj-bikerental-portal.netlify.app/" target="blank" className="anchor">
-            // <button className="codeBtn" >  Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button></a>
+          
             <div className="credentials">
-            // <div>
-            //   <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
-            //   <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
-            //   <p  className="demoCred">surajpatils131297@gmail.com</p>
-            //   <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
-            //   <p  className="demoCred"> admin123</p>
-            // </div>
+            <div>
+              <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
+              <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
+              <p  className="demoCred">surajpatils131297@gmail.com</p>
+              <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
+              <p  className="demoCred"> admin123</p>
+            </div>
             </div>
             </div>
           </div>
@@ -416,17 +415,16 @@ function Project(){
               <button className="codeBtn">BackEnd<i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
             </a>
             <div className="ee">
-            // <a href = "https://digital-e-wallet.netlify.app/" target="blank" className="anchor">
-            // <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
+         
             </a>
             <div className="credentials">
-            // <div>
-            //   <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
-            //   <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
-            //   <p  className="demoCred">surajpatils131297@gmail.com</p>
-            //   <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
-            //   <p  className="demoCred"> admin123</p>
-            // </div>
+            <div>
+              <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
+              <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
+              <p  className="demoCred">surajpatils131297@gmail.com</p>
+              <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
+              <p  className="demoCred"> admin123</p>
+            </div>
             </div>
             </div>
           </div>
@@ -552,17 +550,15 @@ function Project(){
             <button className="codeBtn">BackEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
             </a>
             <div className="ee">
-            // <a href = "https://carwash-express.netlify.app/" target="blank" className="anchor">
-            // <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
-            </a>
+         
               <div className="credentials">
-              // <div>
-              //   <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
-              //   <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
-              //   <p  className="demoCred">surajpatils131297@gmail.com</p>
-              //   <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
-              //   <p  className="demoCred"> admin123</p>
-              // </div>
+              <div>
+                <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
+                <p  className="demoCred" style={{color:"tomato"}}>UserName: </p>
+                <p  className="demoCred">surajpatils131297@gmail.com</p>
+                <p  className="demoCred" style={{color:"tomato"}}>Password :</p>
+                <p  className="demoCred"> admin123</p>
+              </div>
               </div>
             </div>
           </div>
@@ -643,9 +639,7 @@ function Project(){
             <a href="https://github.com/suraj860/Day-25-IFSC" target="blank" className="anchor">
               <button className="codeBtn">FrontEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
             </a>
-            // <a href = "https://get-bankdetails.netlify.app/" target="blank" className="anchor">
-            // <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
-            </a>
+       
           </div>
         </div>
         
@@ -719,9 +713,7 @@ function Project(){
             <a href="https://github.com/suraj860/Day-25-covid19" target="blank" className="anchor">
               <button className="codeBtn">FrontEnd <i className="fab fa-github" style={{marginLeft:"8px"}}></i></button>
             </a>
-            // <a href = "https://covid-19-tracker-data.netlify.app/" target="blank" className="anchor">
-            // <button className="codeBtn">Live Demo <i className="fas fa-level-down-alt" style={{marginLeft:"8px"}}></i></button>
-            </a>
+       
           </div>
         </div>
         
