@@ -416,7 +416,6 @@ function Project(){
             </a>
             <div className="ee">
          
-            </a>
             <div className="credentials">
             <div>
               <p  className="demoCred" style={{color:"#ccd602" , fontWeight:"bold"}}>DEMO CREDENTIALS</p>
