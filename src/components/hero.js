@@ -19,7 +19,7 @@ function Hero(){
             <a href="https://github.com/suraj860" target="blank" className="anchor" style={{color:"black" , marginRight:"25px"}}>
              <img src="./images/githubHomeIcon.png" className="heroIcons" alt="github"/></a>
 
-            <a href="https://drive.google.com/file/d/1xwya_54TE0lZl5RjuVuKZRsJKChZMiiK/view?usp=sharing" target="blank" className="anchor" style={{color:"black"}}>
+            <a href="https://drive.google.com/file/d/1_bY1JF3ItM3mhFMt7P6H5mjVpUAOhiIn/view?usp=drive_link" target="blank" className="anchor" style={{color:"black"}}>
             <img src="./images/resume.png" className="heroIcons" alt="resume"/></a>
 
             </div>
