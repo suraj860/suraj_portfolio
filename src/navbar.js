@@ -32,7 +32,7 @@ function Navbar(){
                 <a className="nav-link" href="#contactForm" >Contacts</a>
             </li>
             <li className="nav-item navLis">
-                <a className="nav-link " target="blank" href="https://drive.google.com/file/d/18vP_L04IA7O6fLnuUwDe12Y60R7kCPUi/view?usp=sharing">Resume</a>
+                <a className="nav-link " target="blank" href="https://drive.google.com/file/d/1_bY1JF3ItM3mhFMt7P6H5mjVpUAOhiIn/view?usp=sharing">Resume</a>
             </li>
             </ul>
         </div>
